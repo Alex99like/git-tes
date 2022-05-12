@@ -1,3 +1,5 @@
 * {
     margin: 0;
+    pad: -moz-element();
+    padding: 0;
 }
